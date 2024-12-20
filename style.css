@@ -1,6 +1,22 @@
-.section-one { background-color: aqua;
+.section-one {
+  background-color: aqua;
+}
+body {
+  display: flex;
 }
 
-section-one h2{ font font-style:  ;
+section-one h2 {
+  font-style: italic;
+}
+
+.section-two {
+  background-color: brown;
+}
+aside {
+  background-color: black;
+  color: aliceblue;
+  padding: 30px;
+}
+main{padding: 30px;
 
 }
